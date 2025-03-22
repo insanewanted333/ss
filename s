@@ -639,7 +639,7 @@ function Library:Init(options)
 		return Tab
 	end
 
-	return GUI
+	return Library
 end
 
 --------------------------------------------------------
